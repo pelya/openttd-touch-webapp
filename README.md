@@ -1,4 +1,4 @@
-OpenTTD built as a web application, with touchscreen improvements.
+OpenTTD built as a web application, with touchscreen interface.
 
 https://pelya.github.io/openttd-touch-webapp
 
