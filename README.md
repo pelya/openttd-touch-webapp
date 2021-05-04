@@ -1,5 +1,7 @@
 OpenTTD built as a web application, with touchscreen improvements.
 
+https://pelya.github.io/openttd-touch-webapp
+
 Build instructions:
 
 Download and build Emscripten SDK, as described on their page: https://emscripten.org/
