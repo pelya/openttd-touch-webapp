@@ -6,16 +6,11 @@ Build instructions:
 
 Download and build Emscripten SDK, as described on their page: https://emscripten.org/
 
-This build was compiled using Emscripten 2.0.20, but newer Emscripten version will probably work too.
+This build was compiled using Emscripten 3.0.0, but newer Emscripten version will probably work too.
 
 Clone OpenTTD Android repo branch 1.11 (webapp code will eventually be merged into master):
 
-    git clone https://github.com/pelya/openttd-android.git -b 1.11
-
-Patch Emscripten to add liblzma support:
-
-    cd emsdk/upstream/emscripten
-    patch -p1 < ../../../openttd-android/os/emscripten/emsdk-liblzma.patch
+    git clone https://github.com/pelya/openttd-android.git -b 12
 
 Build it:
 
