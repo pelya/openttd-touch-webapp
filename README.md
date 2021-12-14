@@ -8,7 +8,7 @@ Download and build Emscripten SDK, as described on their page: https://emscripte
 
 This build was compiled using Emscripten 3.0.0, but newer Emscripten version will probably work too.
 
-Clone OpenTTD Android repo branch 1.11 (webapp code will eventually be merged into master):
+Clone OpenTTD Android repo branch 12 (webapp code will eventually be merged into master):
 
     git clone https://github.com/pelya/openttd-android.git -b 12
 
